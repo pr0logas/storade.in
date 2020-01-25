@@ -1,0 +1,20 @@
+[
+	{
+		"slug": "b4fGh6TgmvA58Q",
+		"title": "Music Video Sample",
+		"description": "A music video we shot one morning in June.",
+		"meta_descripiton": "A music video we shot one morning in June.",
+		"user": {
+			"username": "El Renovatio Films"
+		},
+		"status": "completed",
+		"error": "",
+		"create": 1561539240,
+		"update": 1561539240,
+		"thumbnail": "storade/b4fGh6TgmvA58Q.png",
+		"liked": 0,
+		"disliked": 0,
+		"time": 86400,
+		"file": "storade/b4fGh6TgmvA58Q.mp4"
+	}
+]
